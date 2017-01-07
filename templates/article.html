@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="page-header">
+        <h1>{{ title }}</h1>
+    </div>
+
+    {{ article_html_content }}
+
+    <a href="{{ rel_path_to_index }}">Назад в содержание</a>
+{% endblock %}
+
