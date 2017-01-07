@@ -1,6 +1,7 @@
 # Encyclopedia
 
 Script creates encyclopedia site based on **config.json** file: generates title page with list of articles and article pages acordingly.
+Example of generated site can be found [here](https://ruslan-k.github.io/19_site_generator_output_site/index.html).
 
 # Usage
 
